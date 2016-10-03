@@ -3,3 +3,8 @@ int main()
 {
 	printf("hello");
 }
+
+void f()
+{
+	printf("jingji");
+}
