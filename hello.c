@@ -7,4 +7,6 @@ int main()
 void f()
 {
 	printf("jingji");
+
 }
+huahuashijie
